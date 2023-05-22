@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ffb18bcf.css",
-    "main.js": "/static/js/main.d64bff35.js",
+    "main.css": "/static/css/main.7a5cb794.css",
+    "main.js": "/static/js/main.3f868700.js",
     "static/media/Inter.var.woff2?v=3.19": "/static/media/Inter.var.c2fe3cb2b7c746f7966a.woff2",
     "static/media/Inter-italic.var.woff2?v=3.19": "/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
     "static/media/Inter-roman.var.woff2?v=3.19": "/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
@@ -59,13 +59,20 @@
     "static/media/Inter-Regular.woff2": "/static/media/Inter-Regular.91d1538224164e1fba3a.woff2",
     "static/media/Inter-Thin.woff2?v=3.19": "/static/media/Inter-Thin.fff2a096db014f6239d4.woff2",
     "static/media/Inter-Regular.woff2?v=3.19": "/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/avatar4.png": "/static/media/avatar4.8c0e7f946093cc558f1e.png",
+    "static/media/avatar2.png": "/static/media/avatar2.c1cacaabe4dc9a53903d.png",
+    "static/media/avatar1.png": "/static/media/avatar1.cf5b417b0b6142068126.png",
+    "static/media/avatar5.png": "/static/media/avatar5.e8e15e2fc75e6c0139e8.png",
+    "static/media/avatar3.png": "/static/media/avatar3.fc15d1bb383b1b070369.png",
+    "static/media/avatar6.png": "/static/media/avatar6.f0949cb1a672870a9c30.png",
     "static/media/mion.png": "/static/media/mion.673d6bdb66915f389940.png",
+    "static/media/mion_management.png": "/static/media/mion_management.673d6bdb66915f389940.png",
     "index.html": "/index.html",
-    "main.ffb18bcf.css.map": "/static/css/main.ffb18bcf.css.map",
-    "main.d64bff35.js.map": "/static/js/main.d64bff35.js.map"
+    "main.7a5cb794.css.map": "/static/css/main.7a5cb794.css.map",
+    "main.3f868700.js.map": "/static/js/main.3f868700.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffb18bcf.css",
-    "static/js/main.d64bff35.js"
+    "static/css/main.7a5cb794.css",
+    "static/js/main.3f868700.js"
   ]
 }
