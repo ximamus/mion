@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a4f31c45.css",
-    "main.js": "/static/js/main.061c5cb3.js",
+    "main.css": "/static/css/main.7bc17a2a.css",
+    "main.js": "/static/js/main.06887654.js",
     "static/media/Inter.var.woff2?v=3.19": "/static/media/Inter.var.c2fe3cb2b7c746f7966a.woff2",
     "static/media/Inter-italic.var.woff2?v=3.19": "/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
     "static/media/Inter-roman.var.woff2?v=3.19": "/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
@@ -32,6 +32,9 @@
     "static/media/Inter-Black.woff?v=3.19": "/static/media/Inter-Black.c6938660eec019fefd68.woff",
     "static/media/Inter-Thin.woff?v=3.19": "/static/media/Inter-Thin.29b9c616a95a912abf73.woff",
     "static/media/Inter-Regular.woff?v=3.19": "/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/ava5.png": "/static/media/ava5.36d0d2000728b6a20932.png",
+    "static/media/ava4.png": "/static/media/ava4.a2e3484a82005db5d51a.png",
+    "static/media/ava7.png": "/static/media/ava7.a347b00cb25a22372891.png",
     "static/media/Inter-MediumItalic.woff2?v=3.19": "/static/media/Inter-MediumItalic.085cb93e613ba3d40d2b.woff2",
     "static/media/Inter-SemiBoldItalic.woff2?v=3.19": "/static/media/Inter-SemiBoldItalic.d9467ee321a8f38aefff.woff2",
     "static/media/Inter-BoldItalic.woff2?v=3.19": "/static/media/Inter-BoldItalic.2d26c56a606662486796.woff2",
@@ -51,6 +54,7 @@
     "static/media/Inter-Light.woff2": "/static/media/Inter-Light.f25729e3394c0829c87b.woff2",
     "static/media/Inter-Medium.woff2?v=3.19": "/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
     "static/media/Inter-SemiBold.woff2?v=3.19": "/static/media/Inter-SemiBold.b5f0f109bc88052d4000.woff2",
+    "static/media/ava3.png": "/static/media/ava3.e24c62ce9249156a0d49.png",
     "static/media/Inter-Black.woff2": "/static/media/Inter-Black.37ea900f5b2e5e5bc7aa.woff2",
     "static/media/Inter-Light.woff2?v=3.19": "/static/media/Inter-Light.2d5198822ab091ce4305.woff2",
     "static/media/Inter-ExtraLight.woff2?v=3.19": "/static/media/Inter-ExtraLight.72505e6a122c6acd5471.woff2",
@@ -59,24 +63,22 @@
     "static/media/Inter-Regular.woff2": "/static/media/Inter-Regular.91d1538224164e1fba3a.woff2",
     "static/media/Inter-Thin.woff2?v=3.19": "/static/media/Inter-Thin.fff2a096db014f6239d4.woff2",
     "static/media/Inter-Regular.woff2?v=3.19": "/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/ava1.png": "/static/media/ava1.7bb48b23be8866a870c1.png",
+    "static/media/ava6.png": "/static/media/ava6.9fd573a799ec9261fa94.png",
     "static/media/avatar.svg": "/static/media/avatar.8d55d39859435fe5b048a86ba7eb7d6c.svg",
-    "static/media/avatar4.png": "/static/media/avatar4.8c0e7f946093cc558f1e.png",
-    "static/media/avatar2.png": "/static/media/avatar2.c1cacaabe4dc9a53903d.png",
-    "static/media/avatar1.png": "/static/media/avatar1.cf5b417b0b6142068126.png",
-    "static/media/avatar5.png": "/static/media/avatar5.e8e15e2fc75e6c0139e8.png",
-    "static/media/avatar3.png": "/static/media/avatar3.fc15d1bb383b1b070369.png",
-    "static/media/avatar6.png": "/static/media/avatar6.f0949cb1a672870a9c30.png",
+    "static/media/ava2.png": "/static/media/ava2.1f4b1cb99931ae60dffe.png",
     "static/media/mion.png": "/static/media/mion.673d6bdb66915f389940.png",
     "static/media/mion_management.png": "/static/media/mion_management.673d6bdb66915f389940.png",
     "static/media/mion_logo_black.svg": "/static/media/mion_logo_black.3eaa9ef18209e222025d0fc4692a8233.svg",
+    "static/media/mion_logo_white.svg": "/static/media/mion_logo_white.5596b7b7f9490dbfbd5883ba9f4d3b15.svg",
     "index.html": "/index.html",
-    "static/media/book.svg": "/static/media/book.6b087794c0bbdae2ff7599115dda13cc.svg",
+    "static/media/book.svg": "/static/media/book.c852e9b7d120c2b9b30763fe6906c4d9.svg",
     "static/media/bag.svg": "/static/media/bag.aa2600f367b193ea8fbf831913d02d0b.svg",
-    "main.a4f31c45.css.map": "/static/css/main.a4f31c45.css.map",
-    "main.061c5cb3.js.map": "/static/js/main.061c5cb3.js.map"
+    "main.7bc17a2a.css.map": "/static/css/main.7bc17a2a.css.map",
+    "main.06887654.js.map": "/static/js/main.06887654.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4f31c45.css",
-    "static/js/main.061c5cb3.js"
+    "static/css/main.7bc17a2a.css",
+    "static/js/main.06887654.js"
   ]
 }
