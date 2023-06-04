@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a9482d98.css",
-    "main.js": "/static/js/main.732076d0.js",
+    "main.css": "/static/css/main.0f0ecc30.css",
+    "main.js": "/static/js/main.06acc99d.js",
     "static/media/Inter.var.woff2?v=3.19": "/static/media/Inter.var.c2fe3cb2b7c746f7966a.woff2",
     "static/media/Inter-italic.var.woff2?v=3.19": "/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
     "static/media/Inter-roman.var.woff2?v=3.19": "/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
@@ -67,18 +67,19 @@
     "static/media/ava6.png": "/static/media/ava6.9fd573a799ec9261fa94.png",
     "static/media/avatar.svg": "/static/media/avatar.8d55d39859435fe5b048a86ba7eb7d6c.svg",
     "static/media/ava2.png": "/static/media/ava2.1f4b1cb99931ae60dffe.png",
-    "static/media/mion.png": "/static/media/mion.673d6bdb66915f389940.png",
     "static/media/mion_management.png": "/static/media/mion_management.673d6bdb66915f389940.png",
     "static/media/mion_logo_black.svg": "/static/media/mion_logo_black.3eaa9ef18209e222025d0fc4692a8233.svg",
     "static/media/mion_logo_white.svg": "/static/media/mion_logo_white.4fa63f0122833c88a6c8d9b491c5d798.svg",
+    "static/media/mion.svg": "/static/media/mion.c0203347b6dcd1fd3d19f4225fcace91.svg",
+    "static/media/file.svg": "/static/media/file.2df9287e3bf9c19a6f195145fdf40ea1.svg",
     "index.html": "/index.html",
     "static/media/book.svg": "/static/media/book.c852e9b7d120c2b9b30763fe6906c4d9.svg",
     "static/media/bag.svg": "/static/media/bag.aa2600f367b193ea8fbf831913d02d0b.svg",
-    "main.a9482d98.css.map": "/static/css/main.a9482d98.css.map",
-    "main.732076d0.js.map": "/static/js/main.732076d0.js.map"
+    "main.0f0ecc30.css.map": "/static/css/main.0f0ecc30.css.map",
+    "main.06acc99d.js.map": "/static/js/main.06acc99d.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9482d98.css",
-    "static/js/main.732076d0.js"
+    "static/css/main.0f0ecc30.css",
+    "static/js/main.06acc99d.js"
   ]
 }
