@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.709d21f4.css",
-    "main.js": "/static/js/main.0e5dd1ac.js",
+    "main.css": "/static/css/main.53bc65f9.css",
+    "main.js": "/static/js/main.afd53542.js",
+    "static/media/Mion - Progress.mp3": "/static/media/Mion - Progress.2108b5b7c012187b35e8.mp3",
     "static/media/Inter.var.woff2?v=3.19": "/static/media/Inter.var.c2fe3cb2b7c746f7966a.woff2",
     "static/media/Inter-italic.var.woff2?v=3.19": "/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
     "static/media/Inter-roman.var.woff2?v=3.19": "/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
@@ -75,11 +76,11 @@
     "index.html": "/index.html",
     "static/media/book.svg": "/static/media/book.c852e9b7d120c2b9b30763fe6906c4d9.svg",
     "static/media/bag.svg": "/static/media/bag.aa2600f367b193ea8fbf831913d02d0b.svg",
-    "main.709d21f4.css.map": "/static/css/main.709d21f4.css.map",
-    "main.0e5dd1ac.js.map": "/static/js/main.0e5dd1ac.js.map"
+    "main.53bc65f9.css.map": "/static/css/main.53bc65f9.css.map",
+    "main.afd53542.js.map": "/static/js/main.afd53542.js.map"
   },
   "entrypoints": [
-    "static/css/main.709d21f4.css",
-    "static/js/main.0e5dd1ac.js"
+    "static/css/main.53bc65f9.css",
+    "static/js/main.afd53542.js"
   ]
 }
